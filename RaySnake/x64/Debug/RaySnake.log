@@ -1,0 +1,4 @@
+﻿  GameMode.cpp
+L:\PROGRAMMING\RayPong\RaySnake\RaySnake\GameMode.cpp(43,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+L:\PROGRAMMING\RayPong\RaySnake\RaySnake\GameMode.cpp(44,92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  RaySnake.vcxproj -> L:\PROGRAMMING\RayPong\RaySnake\x64\Debug\RaySnake.exe
